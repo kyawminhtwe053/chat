@@ -1,0 +1,17 @@
+html,body{
+  font-family: sans-serif;
+}
+#greeting
+{
+  text-align: center;
+}
+#chat-window
+{
+  height: 400px;
+  position: relative;
+}
+#text
+{
+  bottom: 0px;
+  position: absolute;
+}
